@@ -10,6 +10,7 @@ public class MyPanelClass extends JPanel {
 	private static final long serialVersionUID = 1L;
 
 			public void paintComponent(Graphics g) {
+				
                         super.paintComponent(g);
  
                         //Compute interior coordinates
